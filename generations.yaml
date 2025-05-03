@@ -1,0 +1,20 @@
+generations:
+  - name: "First Generation (GMT800)"
+    start_year: 1999
+    end_year: 2007
+    description: "The original Silverado replaced the long-running C/K pickup trucks as Chevrolet's full-size truck offering. Available in light-duty 1500, medium-duty 2500, and heavy-duty 3500 variants with various cab and bed configurations, it featured more modern styling and improved refinement compared to its predecessor. Engine options included V6 and several V8 choices, with the 5.3L V8 being particularly popular. The interior was more car-like than previous Chevrolet trucks, with improved ergonomics and comfort. This generation established the Silverado nameplate and set the foundation for it to become one of GM's most profitable and important model lines."
+
+  - name: "Second Generation (GMT900)"
+    start_year: 2007
+    end_year: 2014
+    description: "The redesigned Silverado featured more aerodynamic styling, improved structural rigidity, and enhanced powertrains for better efficiency and capability. Engine options were updated with technologies like Active Fuel Management cylinder deactivation, while maintaining the range of V6 and V8 options. The interior saw significant improvements in design, material quality, and technology features. New variants included luxury-oriented High Country models and off-road-focused Z71 packages. This generation continued to solidify the Silverado's position as one of the top-selling vehicles in North America, with commercial and personal-use buyers equally important to its success."
+
+  - name: "Third Generation (K2XX)"
+    start_year: 2014
+    end_year: 2019
+    description: "The third-generation Silverado featured more distinctive styling with squared-off fenders and a bold front fascia. Extensive use of high-strength steel and aluminum components reduced weight while increasing capability. Engine options expanded to include more efficient small-block V8s and a 4.3L V6 sharing architecture with the V8 engines. The interior offered improved technology with the introduction of the MyLink infotainment system and enhanced connectivity features. Special editions proliferated, offering various appearance and functional packages to appeal to different segments of the truck market. This generation faced increased competition from redesigned Ford and Ram trucks but maintained strong sales and brand loyalty."
+
+  - name: "Fourth Generation (T1XX)"
+    start_year: 2019
+    end_year: null
+    description: "The current Silverado features a complete redesign with controversial styling that maximizes size and presence. Despite being larger, it's lighter than its predecessor thanks to mixed-material construction. Engine options expanded significantly to include a 2.7L turbocharged four-cylinder, 3.0L Duramax diesel inline-six, and updated V6 and V8 options. The interior initially received criticism for not advancing as much as the competition, but a substantial update in 2022 addressed this with a completely redesigned dashboard featuring larger displays and improved materials in higher trims. Capability increased with improved towing and payload capacities, while technology advanced with features like Super Cruise hands-free driving on certain models. The fourth-generation Silverado continues Chevrolet's focus on providing a wide range of configurations and capabilities to serve diverse truck buyers, from work-focused base models to near-luxury High Country variants."
