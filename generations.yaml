@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_Silverado"
+
 generations:
   - name: "First Generation (GMT800)"
     start_year: 1999
